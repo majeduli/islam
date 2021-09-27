@@ -1,0 +1,122 @@
+All Classes Bootstrap
+
+
+.container
+.container-fluid 
+
+Grid
+bootstrap All colam 1-12 .
+larg=lg medium=md small=sm
+.row
+"col-lg-4 col-md-6 col-sm-12"
+
+
+Collor:
+========
+primary(blue)
+success(green)
+info(light blue)
+warning(orange)
+danger(red)
+secondary(grey)
+white
+dark
+light
+
+Background=bg-green
+text=text-blue
+
+Margin and Padding:
+====================
+top=t
+bottom=b
+left=l
+right=r
+padding=p padding value: 0-5
+margin=m margin value:0-5
+
+
+Border Image-rounded  center responsuve:
+=========================================
+
+border=border rounded=rounded
+image=img img-fluid img-thumbnail rounded-circle
+display=d block=block
+
+
+Text and Fornt:
+================
+
+text-left text-center text-right text-justify text-sm-left text-sm-center text-sm-right
+
+ text-lowercase text-uppercase text-capitalize text-decoration-none text-monospace text-nowrp
+
+font-weight-bold font-weiht-bolder font-weight-normal font-weight-lighter font-italic small
+
+ Jumbotron and alert:
+======================
+jumbotron
+jumbotron-fluid
+
+pagination
+===========
+pagination
+page-item
+page-link
+justify-content-center
+
+navigatin
+==========
+nav
+nav-item
+nav-link
+justify-content-center
+
+navbar
+=========
+navbar
+navbar-nav
+navbar-expand
+navbar-brand
+navbar-dark
+fixed-top
+fixed-bottom
+collapse
+navbar-collapse
+
+card
+=====
+card
+card-body
+card-header
+card-footer
+card-title
+cart-text
+card-link
+card-img-top
+card-img-bottom
+stretched-link
+card-link
+
+media
+=======
+media
+media-body
+aling-self-center
+
+table
+======
+table
+table-bordered 
+table-hover
+table-dark 
+table-striped
+
+
+contact form
+================
+form-group
+form-control
+vlaid-feedback
+invalid-feedback
+was-validated
